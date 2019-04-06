@@ -1,0 +1,16 @@
+*.class
+*.log
+*.ctxt
+*mtj.mtp/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*rar
+
+hs_err_pid*
+
+.idea
+*.ini
+*.iml
