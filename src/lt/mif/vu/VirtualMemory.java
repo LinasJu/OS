@@ -2,8 +2,6 @@ package lt.mif.vu;
 
 import java.util.ArrayList;
 
-@Getter
-@Setter
 public class VirtualMemory {
     private ArrayList<Integer> allCode; //visa programa 256Mb = 2^28 = 268435456 bitai
 
