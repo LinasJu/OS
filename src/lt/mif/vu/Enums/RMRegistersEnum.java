@@ -4,7 +4,7 @@ import lt.mif.vu.Constants;
 
 import java.io.Serializable;
 
-public class RMRegistersEnum implements Serializable {
+public enum RMRegistersEnum implements Serializable {
     // RM
     PTR(1, 4), // 4 baitų puslapių lentelės registras
     PC(1, 1), // komandų skaitliukas
